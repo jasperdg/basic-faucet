@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/basic-faucet/static/css/main.5f361e03.chunk.css",
-    "main.js": "/basic-faucet/static/js/main.c0f6f8af.chunk.js",
-    "main.js.map": "/basic-faucet/static/js/main.c0f6f8af.chunk.js.map",
-    "runtime-main.js": "/basic-faucet/static/js/runtime-main.c4b2369c.js",
-    "runtime-main.js.map": "/basic-faucet/static/js/runtime-main.c4b2369c.js.map",
-    "static/js/2.bc711e33.chunk.js": "/basic-faucet/static/js/2.bc711e33.chunk.js",
-    "static/js/2.bc711e33.chunk.js.map": "/basic-faucet/static/js/2.bc711e33.chunk.js.map",
-    "index.html": "/basic-faucet/index.html",
-    "precache-manifest.f22ee9fa9d445b3a816456eba3aa49fe.js": "/basic-faucet/precache-manifest.f22ee9fa9d445b3a816456eba3aa49fe.js",
-    "service-worker.js": "/basic-faucet/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/basic-faucet/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.bc711e33.chunk.js.LICENSE.txt": "/basic-faucet/static/js/2.bc711e33.chunk.js.LICENSE.txt"
+    "main.css": "/basic-faucet/build/static/css/main.5f361e03.chunk.css",
+    "main.js": "/basic-faucet/build/static/js/main.923e24f4.chunk.js",
+    "main.js.map": "/basic-faucet/build/static/js/main.923e24f4.chunk.js.map",
+    "runtime-main.js": "/basic-faucet/build/static/js/runtime-main.495bd55b.js",
+    "runtime-main.js.map": "/basic-faucet/build/static/js/runtime-main.495bd55b.js.map",
+    "static/js/2.c84da2ec.chunk.js": "/basic-faucet/build/static/js/2.c84da2ec.chunk.js",
+    "static/js/2.c84da2ec.chunk.js.map": "/basic-faucet/build/static/js/2.c84da2ec.chunk.js.map",
+    "index.html": "/basic-faucet/build/index.html",
+    "precache-manifest.ce8453c686dadccc80861ee8b83d2518.js": "/basic-faucet/build/precache-manifest.ce8453c686dadccc80861ee8b83d2518.js",
+    "service-worker.js": "/basic-faucet/build/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/basic-faucet/build/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.c84da2ec.chunk.js.LICENSE.txt": "/basic-faucet/build/static/js/2.c84da2ec.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c4b2369c.js",
-    "static/js/2.bc711e33.chunk.js",
+    "static/js/runtime-main.495bd55b.js",
+    "static/js/2.c84da2ec.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.c0f6f8af.chunk.js"
+    "static/js/main.923e24f4.chunk.js"
   ]
 }
